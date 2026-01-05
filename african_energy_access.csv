@@ -1,0 +1,10 @@
+﻿Country,Year,Energy_Source,Energy_MWh,Access_Rate_%
+Nigeria,2023,Solar,1200,60
+Nigeria,2023,Biogas,800,60
+Nigeria,2023,Diesel,2000,60
+Kenya,2023,Solar,1400,75
+Kenya,2023,Biogas,600,75
+Kenya,2023,Diesel,1800,75
+Ghana,2023,Solar,1000,85
+Ghana,2023,Biogas,700,85
+Ghana,2023,Diesel,1500,85
